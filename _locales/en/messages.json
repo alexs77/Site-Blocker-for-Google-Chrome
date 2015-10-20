@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "'description'",
+      "message": "message"
+   },
+   "appName": {
+      "description": "description",
+      "message": "message"
+   }
+}

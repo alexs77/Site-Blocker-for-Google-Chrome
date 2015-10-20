@@ -1,0 +1,18 @@
+{
+   "background": {
+      "scripts": [ "js/list.js", "js/background.js" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "xxx",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": false,
+   "permissions": [ "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
+   "version": "0.0.0"
+}
